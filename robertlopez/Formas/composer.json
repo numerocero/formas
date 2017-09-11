@@ -1,0 +1,17 @@
+{
+    "name": "robertlopez/formas",
+    "description": "Ejercicio de modelado de clases para GeopPagos",
+    "authors": [
+        {
+            "name": "Robert Lopez",
+            "email": "robert.lopez.ve@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"robertlopez\\Formas\\": "packages/robertlopez/Formas/src"
+    	}
+    }
+}
